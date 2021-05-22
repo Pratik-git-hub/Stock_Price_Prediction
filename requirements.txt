@@ -10,3 +10,5 @@ matplotlib,
 
 for running first create mysql database named 
 "stock" and in that database one table as " user (user_id int auto_increment primary key,user_name varchar(20))"
+
+and then run stock_predictior.py file
